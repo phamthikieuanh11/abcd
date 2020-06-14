@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 xin chao
 
+=======
+kieu tram
+>>>>>>> 2fa525ac9479706e04902b16dcfe0cb309658187
